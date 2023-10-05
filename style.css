@@ -1,0 +1,12 @@
+.btn1{
+    font-size: 2rem;
+    padding: 0.5em 1em;
+    font-weight: 700;
+    border: 10px;
+    border-radius: 5px;
+    transition: transform 0.3s;
+}
+
+.btn1:hover{
+    transform: translateY(-10px);
+}
