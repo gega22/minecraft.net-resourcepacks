@@ -1,20 +1,8 @@
 body{
-    background: url('background.png') no-repeat top center fixed;
+    background: url('background.gif') no-repeat top center fixed;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100% 100%;
-}
-.btn {
-    float: right;
-    background-color: #333333;
-    border: none;
-    color: blue;
-    padding: 15px 30px;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    transition: all 0.2s ease-in-out;
+    background-size: 100% 110%;
 }
 .btn1{
         font-size: 2rem;
@@ -36,3 +24,16 @@ a {
   .btn a{
     color: blue;
   }
+.back-to-home{
+    height: 65px;
+    float: right;
+    background-color: #333333;
+    border: none;
+    color: blue;
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease-in-out;
+}
